@@ -1,3 +1,8 @@
+
+_Organizer's note:_ this project participated in iQuHACK 2020.
+
+---
+
 # duckfebugging's Compression and Teleportation Protocol
 This is team *duckfebugging*'s repository for our project at iQuHack. The idea
 is to teleport quantum data in an efficient manner. To do this we perform the
